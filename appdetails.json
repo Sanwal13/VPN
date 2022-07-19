@@ -1,0 +1,21 @@
+{
+  "ads":"true",
+  "update":[{
+    "version":"",
+    "title":"Note",
+    "description":"If you have installed any other vpn app kindly uninstall it otherwise you won't be able to connect to our VPN",
+    "size":""
+  }],
+  "blocked":[
+    {"id":0, "app":"com.android.game"},
+    {"id":1, "app":"com.utorrent.client"},
+    {"id":2, "app":"com.torrent.client"},
+    {"id":3, "app":"com.tor.client"},
+    {"id":4, "app":"com.insta.client"},
+    {"id":5, "app":"com.facebook.client"},
+    {"id":6, "app":"com.get.client"}
+  ],
+  "free":[
+    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"34.94.202.74","active":"true","signal":"a"},
+  ]
+}
