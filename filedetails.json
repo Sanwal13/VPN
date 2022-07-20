@@ -1,7 +1,7 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
-     setenv FORWARD_COMPATIBLE 1
+    {
+    "id":0,"file":"setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
 nobind
@@ -120,10 +120,8 @@ ba00792a6c3437a873132728b8823c16
 ef2bdf94efbcc0dc67434d61a7628e07
 3ede7d3954776d12f7636d67305ddeca
 -----END OpenVPN Static key V1-----
-</tls-auth>
-     "},
-  {"id":1,"file":"
-     setenv FORWARD_COMPATIBLE 1
+</tls-auth>",
+    "id":1,"file":"setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
 nobind
@@ -242,10 +240,8 @@ ba00792a6c3437a873132728b8823c16
 ef2bdf94efbcc0dc67434d61a7628e07
 3ede7d3954776d12f7636d67305ddeca
 -----END OpenVPN Static key V1-----
-</tls-auth>
-     "},
-{"id":2,"file":"
-     setenv FORWARD_COMPATIBLE 1
+</tls-auth>",
+    "id":2,"file":"setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
 nobind
@@ -364,8 +360,9 @@ ba00792a6c3437a873132728b8823c16
 ef2bdf94efbcc0dc67434d61a7628e07
 3ede7d3954776d12f7636d67305ddeca
 -----END OpenVPN Static key V1-----
-</tls-auth>
-     "}
+</tls-auth>",
+
+    }
      
     ]
 }
