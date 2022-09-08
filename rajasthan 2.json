@@ -1,0 +1,1640 @@
+{
+  "banners": [
+    {
+      "place": "Ajmer",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FAJMER.jpg?alt=media&token=1ed15668-8a38-48b6-a5a4-068ee6fa5b44"
+    },
+    {
+      "place": "Alwar",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FALWAR.jpg?alt=media&token=a3aebff8-15e2-412c-85bc-b3c2cd672433"
+    },
+    {
+      "place": "Bikaner",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FBIKANER.jpg?alt=media&token=18c061f2-4947-4d9e-a489-f525eb8bf344"
+    },
+    {
+      "place": "Bundi",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FBUNDI.jpg?alt=media&token=2f9f02ba-6ac5-43ad-a5ab-d339fd12aebf"
+    },
+    {
+      "place": "Chittorgarh",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FCHITTORGARH.jpg?alt=media&token=090ba170-1ce4-4f18-837e-bdd29f4fe67a"
+    },
+    {
+      "place": "Churu",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FCHURU.jpg?alt=media&token=a45b5d03-2d0c-49fb-820d-a5a3070cbc3e"
+    },
+    {
+      "place": "Amer",
+      "image": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FRAJASTHAN.jpg?alt=media&token=4fe1371b-7b4e-4784-b796-ae16ce939101"
+    }
+  ],
+  "states": [
+    {
+      "id": "1",
+      "state": "Rajasthan",
+      "short_disc": "Rajasthan literally means The Land of Kings. The geographic features of Rajasthan are the Thar Desert and the Aravalli Range, which runs through the state from southwest to northeast, almost from one end to the other, for more than 850 kilometres (530 mi). Mount Abu lies at the southwestern end of the range, separated from the main ranges by the West Banas River, although a series of broken ridges continues into Haryana in the direction of Delhi where it can be seen as outcrops in the form of the Raisina Hill and the ridges farther north. About three-fifths of Rajasthan lies northwest of the Aravallis, leaving two-fifths on the east and south direction.",
+      "capital": "Jaipur",
+      "no_district": "33",
+      "state_img": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/banners%2FCHITTORGARH.jpg?alt=media&token=090ba170-1ce4-4f18-837e-bdd29f4fe67a",
+      "population": {
+        "total": "68,548,437",
+        "rank": "7",
+        "density": "200/km2 (520/sq mi)"
+      },
+      "space": {
+        "area": "342,239 km2 (132,139 sq mi)",
+        "rank": "1"
+      },
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FAJMER.jpg?alt=media&token=f3552490-999a-4605-901f-a07c2f9bc2a5",
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FALWAR.jpg?alt=media&token=b35da43d-d9cc-4010-a021-8afa2f7a1394",
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FBIKANER.jpg?alt=media&token=e02d2c4b-9adb-420a-8fd2-f36270c0a189",
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FBUNDI.jpg?alt=media&token=c7541342-84f2-45c3-a72d-f767d1bdfa23",
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FCHITTORGARH.jpg?alt=media&token=db13424b-f7d6-4412-ab1f-88e8ed96e550",
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FCHURU.jpg?alt=media&token=d26017b4-604b-4d84-8a8e-c00b252a78f4",
+        "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FRAJASTHAN.jpg?alt=media&token=5dcd9316-5e7a-4ef8-bf12-bae6dc85253e"
+      ],
+      "places": [
+        {
+          "city": "Jaipur",
+          "lat": "26.8854479",
+          "lng": "75.6504712",
+          "by_air": "Air travel is the most convenient way to reach the pink city. The Sanganer airport is well connected to the major cities of India as well as the globe through a number of airlines operating on a regular basis.",
+          "by_road": "The Rajasthan State Road Transport Corporation (RSRTC) runs luxury and deluxe buses between Jaipur and other cities within the state of Rajasthan. There is a regular service from cities like New Delhi, Kota, Mumbai, Ahmedabad, Udaipur, Vadodara, and Ajmer at reasonable fares.",
+          "by_train": "The Indian Railways offers a number of express trains to reach Jaipur from other parts of India.Trains like the Shatabdi Express connects Jaipur to almost all major cities of India. An additional attraction is The Palace on Wheels which offers a royal ride to Jaipur. A train journey through the desert is an enthralling experience in itself. ",
+          "season": "November to March is the best time to visit Jaipur and other parts of Rajasthan as the weather ranges between 8-degree Celcius during nights to 32-degree Celcius in the day. Summers are extremely hot, and sightseeing isn't a very joyful experience. Monsoons, on the other hand, are quite hot and humid which isn't an ideal time to visit too. January is an excellent time to visit Jaipur because of the Kite Festival and also the Jaipur Literature Festival that's held around this time. Sometime in the month of March, Jaipur witnesses the Elephant festival, just a day before Holi. ",
+          "disciption": "Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence.",
+          "cityImage": "https://firebasestorage.googleapis.com/v0/b/touristplacesindia-80a6e.appspot.com/o/rajasthan_banner%2FRAJASTHAN.jpg?alt=media&token=5dcd9316-5e7a-4ef8-bf12-bae6dc85253e",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "Amber Fort",
+              "disciption": "Cradled on the top of a hill near Jaipur lies the Amer Fort, one of the most magnificent palaces in India. Also commonly known as the Amber Fort, this majestic building is a part of an extensive complex. The massive fort can be explored in 2-3 hours. Audio guides are available explaining the history. Getting an elephant ride up the stairs to the Amber Fort is also a popular tourist activity. A sound and light show is also held here every evening.",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "Village of Choki Dhani",
+              "disciption": "Chokhi Dhani is a luxury heritage resort synonymous with Rajasthani village culture. It is located a little on the outskirts of the city on Tonk Road. It is a true depiction of traditional Rajasthan with ancient artefacts, handicrafts, paintings, folklore and sculptures. The village offers myriad entertainment options- folk dances, singing, camel rides, puppet shows, fortune-tellers, acrobatics, predicting parrots, magic shows, horse riding. etc. It is also known for its traditional Rajasthani food.",
+              "distance": "17 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "City Palace",
+              "disciption": "The City Palace is the main palace from where the Maharaja Sawai Jai Singh reigned. The palace includes the Chandra Mahan and Mubarak Mahal along with various other buildings within the complex. It is located towards the north-eastern side of Jaipur. The palace is divided into a series of courtyards, buildings and gardens. There is a museum that showcases various unique handcrafted products and other things that belong to the royal heritage of the City Palace.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Hawa Mahal",
+              "disciption": "The Hawa Mahal stands at the intersection of the main road in Jaipur, Badi Chaupad. It is regarded as the signature building of Jaipur. From within, the Hawa Mahal palace is based on five floors each of which has a uniquely decorated chamber. The top of the palace offers a brilliant view of the City Palace, Jantar Mantar and the ever-busy Siredeori Bazar. There is a small museum as well which holds some rich relics and miniature paintings.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Jantar Mantar",
+              "disciption": "Jantar Mantar in Jaipur is the largest stone astronomical observatory in the world. It is located just next to the City Palace. Built during the period between 1727 and 1733, the Jantar Mantar is still in a running condition and it stands as a witness regarding the wisdom of former age. The world's largest sundial is also situated here. A light and sound is conducted here every evening. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "Nahargarh Fort",
+              "disciption": "Nahargarh Fort, situated on the outskirts of Jaipur, is known for breathtaking views of the city and its extended wall that connects it to Jaigarh Fort. Embellished with delicate carvings and stonework, it is an impregnable structure and together with its two neighbouring forts - Amer and Jaigarh once stood as the strong defence of Jaipur city. The Padao Restaurant is also a must-visit if you're near Nahargarh Fort from where you're sure to enjoy a panoramic view of the city of Jaipur.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Albert Hall Museum",
+              "disciption": "Situated in the Ram Niwas Garden, Albert Hall Museum is one of the oldest museums of Rajasthan. It has a rich collection of various kinds of items such as paintings, carpets, ivory, stone, metal sculptures, colourful crystal works etc. The museum looks stunning with yellow lights at night.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "Birla Temple",
+              "disciption": "Located on an elevated ground at the base of Moti Dungri hill, the Birla Temple of Jaipur is dedicated to Lord Vishnu (Narayan), the preserver and his consort Lakshmi, the Goddess of wealth. It is also known as the Lakshmi Narayanan Temple and forms a part of one of the several Birla temples located all around the country.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Masala Chowk",
+              "disciption": "Located in Ram Niwas Garden, this open-air food court offers 21 flavours of the Pink City under one roof (or sky). Masala Chowk brings the best Jaipur has to offer in street food and assembles it in one place. Initially, the place was meant to attract tourists, given its proximity to the famous Albert Hall Museum in the area. However, Masala Chowk has become the talk of the town amongst the locals too.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Jaigarh Fort ",
+              "disciption": "Jaigarh Fort is a grand structure perched on the top of the 'Cheel ka teela' hills designed by a talented architect called Vidhyadhar. The fort reflects the city's prosperous past and is named after the ruler who got it built, Sawai Jai Singh II. It is connected to Amer Fort through subterranean passages. The fort currently houses the world's largest cannon on wheels - 'Jaivana' and offers a magnificent view of Jaipur city.",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Pink Pearl Fun City Resort and Amusement Park",
+              "disciption": "Situated in Bhakrota, on the outskirts of Jaipur, Pink Pearl Fun City Resort and Amusement Park is one of the most popular amusement parks in the city. Replete with a number of thrilling rides and adventure activities both for kids and for adults, the park is buzzing with activity all year round.",
+              "distance": "13 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Galtaji Temple",
+              "disciption": "Located in the City Palace complex, Galtaji Temple is a prehistoric Hindu pilgrimage site. Outlined by the striking Aravalli hills, the vast temple complex consists of several shrines, holy kunds, pavilions and natural springs. The walls of this temple are beautifully adorned with carvings and paintings and it is designed to resemble a grand haveli.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "Jal Mahal",
+              "disciption": "Jal Mahal is one of the most photographed monuments in India. It is located in the centre of Man Sagar Lake. The most striking feature of this palace is that while only one storey appears above the water level, there are in fact 4 storeys submerged underneath. The entry inside the fort is prohibited, but the view from a considerable distance while boating is breathtaking. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Gatore ki Chhatriyan",
+              "disciption": "Slightly outside of Jaipur, Gatore ki Chhatriyan is the crematorium grounds for the Kachwahas, a Rajput dynasty. It is set in a tranquil location and consists of a number of beautiful cenotaphs which mark the official cremation spots of the former rulers. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Amrapali Museum ",
+              "disciption": "Amrapali Museum is one of the popular museums of Jaipur known for showcasing different styles of Indian Jewellery art. It houses a wide collection of Tribal jewellery along with Mughal style, Rajput style and temple jewellery. ",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Pink City",
+              "disciption": "Pink City in Jaipur refers to the old walled city that was built in the year 1727 by Maharaja Jai Singh II. A number of important structures such as Badi Chaupar, Jantar Mantar and City Palace are situated in this part of the city along with Bapu Bazaar and Johri Bazaar. The city is known as 'Pink City' as it is built out of Sandstone and reflects the colour pink in the daytime. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "Patrika Gate",
+              "disciption": "Patrika Gate serves as the entrance to the Jawahar Circle Park and is one of the photographed spots in India. A massive gate famous for its gorgeous architecture, it is characterised by vibrant colours and intricate carvings that symbolise the Rajasthani culture. ",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "Angel Resort and Amusement Park",
+              "disciption": "Situated on the Sikar highway in Jaipur, Angel Resort and Amusement Park is a resort cum water park cum amusement park as the name suggests. The property offers stay and accommodation facility as well. It also has a number of fun adventure activities that you can try your hand at. ",
+              "distance": "18 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "Amar Jawan Jyoti",
+              "disciption": "The Amar Jawan Jyoti in Jaipur, Rajasthan is a monument located at Jan Path on the Jaipur Nagar Nigam road. Built to commemorate the soldiers and martyrs from Jaipur who served India during wartime, it is known for its flames that never stop burning. ",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "Jaipur Zoo",
+              "disciption": "A zoological garden in Jaipur, Rajasthan, the Jaipur Zoo is situated close to the Albert Hall Museum and within the Ram Niwas Garden premises. It is is one of the oldest zoos in the country and India’s fourth-largest gharial breeding farm. There is also a small museum within the zoo premises.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "Central Park",
+              "disciption": "The Central Park of Jaipur is the largest park in Jaipur. With its big lush garden and long-running track, the park also has the tallest and first day and night national flag. It is popular amongst tourists and locals for picnic.",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "22",
+              "place": "Sisodia Rani Garden",
+              "disciption": "Sisodia Rani Garden is a royal garden built on the premises of the Sisodia Palace in Jaipur. The step garden has a central water fountain with channels running through it. The best time to explore this garden is in the morning or the evening. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "23",
+              "place": "Rambagh Palace",
+              "disciption": "Located about 8 kms from the city centre of Jaipur, Rambagh Palace is one among the finest palaces of Jaipur. Once a residence of the Maharaja of Jaipur, today the palace has been converted into a luxury heritage resort with brilliant architecture, lighting and facilities. ",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "24",
+              "place": "Govind Ji Temple",
+              "disciption": "For Krishna followers, this is the most significant temple in the world after Vrindavan. It is believed that the statue of the deity here looks exactly like Krishna's form during his incarnation of Earth. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "25",
+              "place": "Moti Dungri Temple",
+              "disciption": "Moti Dungri Temple in Jaipur is located on a small hillock and is bordered by Moti Dungri Fort. In spite of being a cultural landmark, Moti Dungri Fort cannot be viewed by the public as it is privately owned. The temple is dedicated to Lord Ganesha and houses the idol of deity that is purportedly 500 years.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "26",
+              "place": "Raj Mandir",
+              "disciption": "Raj Mandir is an ancient cinema hall in Jaipur, conceptualized in the late-1960s by Mehtab Chandra Golcha. It is entitled “Pride of Asia” for its magnificent architecture, the ambience and the surreal experience it provides to its audiences. ",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "27",
+              "place": "Panna Meena ka Kund",
+              "disciption": "Panna Meena ka Kund in Jaipur is one of the many famous stepwells that still stand in the western part of India. The historical stepwell is known for its symmetrical staircase on all four sides. The stairs are made in such a manner that you can reach any of them from anywhere, by simply climbing up and down some flights. ",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "28",
+              "place": "Ram Niwas Garden",
+              "disciption": "Ram Niwas Garden is a royal garden built in 1868 by Maharaja Sawai Ram Singh. A historical landmark, the Albert Hall Museum is located here. Explore the lush green landscaped gardens and or visit the theatre, the Bird Park, the Zoo or the Art Gallery. There are also several cafes located nearby. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "29",
+              "place": "Digamber Jain Mandir Sanghiji",
+              "disciption": "Digamber Jain Mandir Sanghiji is a Jain temple situated 16 kms away from Jaipur in the town of Sanganer. Built of red sandstone, the temple enshrine Adinath- the first Jain tirthankara in the central shrine. Boasting of Shikhara style architecture, the temple has several carvings on the inner walls of the shrine of lotuses, creepers and elephants ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "30",
+              "place": "Abhaneri Stepwell",
+              "disciption": "Located around 20 km from Jaipur, Abhaneri Stepwell is one of the largest stepwells and most intricate pieces of architecture in Rajasthan. Also, known as Chand Baori, the geometry of the stepwell is mesmerising. The Step Well is deep with 3,500 steps going down to nearly 20 meters to the base and has 13 floors in between. ",
+              "distance": "20 km from city center"
+            },
+            {
+              "id": "31",
+              "place": "Bapu Bazaar",
+              "disciption": "Situated in the heart of the Pink city between Sanganer Gate and New Gate, Bapu Bazaar is known for its alluring Rajasthani quintessential products including textiles, handicrafts, brass works and precious stones. It is one of the most famous markets of the city for buying traditional Jutis, Bangles, Dupattas, Sarees, Scarves etc.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "32",
+              "place": "Kale Hanuman Ji Ka Mandir",
+              "disciption": "The Kale Hanuman Ji Temple, often known as the Kale Hanuman Ji Ka Mandir, is a Hindu temple in the Chandi ki Taksal neighbourhood of Jaipur, Rajasthan. It is known for housing a unique black statue of Lord Hanuman. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "33",
+              "place": "World Trade Park (WTP",
+              "disciption": "World Trade Park is situated in Malviya Nagar in Jaipur and is the second largest mall of the country. The construction of the mall costed 350 crores and it took two years to finish it. It was inaugurated in the year 2012 by Shahrukh Khan. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "34",
+              "place": "Johari Bazaar",
+              "disciption": "Painted in pink, Johari Bazaar is the oldest market in Jaipur popular for its vibrant ambience, delicious food and premium quality Kundan jewellery. Considered a haven for jewellery junks, the market offers a wide variety of glittering Jaipuri jewellery made in gold, silver, diamonds, emeralds, and rubies.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "35",
+              "place": "Akshardham Temple",
+              "disciption": "Dedicated to the Hindu God, Narayan Akshardham Temple is known for its beautiful architecture, magnificent idols, sculptures, and carvings. The lush green surroundings add to its beauty and serenity. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "36",
+              "place": "Jawahar Circle",
+              "disciption": "Jawahar Circle is situated in Malviya Nagar in Jaipur and boasts of being the largest circular park in Asia. The park has a peculiar jogging track and is encircled by a rose garden. Besides, it has play area for kids and kiosks. The main highlight of the park is the dance of the musical fountains which is one of the most popular tourist attractions of the city. ",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "37",
+              "place": "Khole Ke Hanuman Ji Temple",
+              "disciption": "Located on the Delhi bypass in Jaipur at Lakshman Dungri, Khole Ke Hanuman Ji Temple is a Hindu revered temple dedicated to Lord Hanuman. The temple is perched on a hillock and offers some panoramic views of the surrounding hills. Besides, the shrine has a spacious sanctum which can accommodate around 500 people at once. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "38",
+              "place": "Garh Ganesh Temple",
+              "disciption": "Garh Ganesh Temple is an ancient temple built by Maharaja Sawai Jai Singh before he laid the foundation stone of the city of Jaipur. The temple is located near Jaigarh and Nahargarh Forts on the Aravalli Hills. It is dedicated to Lord Ganesh who is revered in Vigra Purushakriti, which means his child-form is worshipped here. The temple is often a halting spot for trekkers who explore the Aravalli Hills for a fabulous view of the city. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "39",
+              "place": "Rajmahal Palace",
+              "disciption": "Built in 1729, Rajmahal Palace is a symbol of love by Maharaja Sawai Jai Singh II for his wife. Briefly occupied by the British, the palace has now been restored and converted into a luxury stay. It still houses some of the ancient relics and royal chandeliers from the bygone era. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "40",
+              "place": "Narain Niwas Palace",
+              "disciption": "Built by Thakur of Kanota, General Amar Singh, Narain Niwas Palace boasts of Anglo Indian style of architecture of the Victorian era. The palace has now been converted into a heritage home to give you a glimpse of the opulent royal lifestyle. ",
+              "distance": "3 km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Jodhpur",
+          "lat": "26.2704963",
+          "lng": "72.9605027",
+          "by_air": "Jodhpur has a well-functioning airport with direct flights to Mumbai/Delhi/Ahmedabad and some other cities in Gujarat/Rajasthan. Flights could be a little expensive as there are just a few flights to here",
+          "by_road": "Jodhpur has great road connectivity from other parts of the state. You can book sleeper bus tickets from Delhi or Ahmedabad - these typically have an overnight schedule and drop you in Jodhpur early morning. They are quite cheap and comfortable, and a good way to reach Jodhpur if you're not able to get train tickets but want to do a budget trip. ",
+          "by_train": "Jodhpur railway station has good train connectivity with almost all the major cities in Rajasthan, and from Delhi/Mumbai/Ahmedabad and even Kolkata.",
+          "season": "November to February are the best months to visit Jodhpur, although they are cold, with temperatures going close to 0 degree celsius for a few days in January. This is a good weather to visit the forts of Jodhpur. October and March also provides pleasant weather for a trip to Jodhpur. However, being in an arid land, Rajasthan and also Jodhpur is extremely hot during summers, so April to September must be avoided. ",
+          "disciption": "Jodhpur is a city in the Thar Desert of the northwest Indian state of Rajasthan. Its 15th-century Mehrangarh Fort is a former palace that’s now a museum, displaying weapons, paintings and elaborate royal palanquins (sedan chairs). Set on on a rocky outcrop, the fort overlooks the walled city, where many buildings are painted the city’s iconic shade of blue.",
+          "cityImage": "https://raw.githubusercontent.com/Sanwal13/VPN/master/CHURU.jpg",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "Mehrangarh Fort",
+              "disciption": "Mehrangarh Fort is one of the largest forts in the country. It is located at the top of a 410 feet elevated hill and guarded by huge walls. The fort encloses a museum now which exhibits various belongings of the royals. The palace was built by Rao Jodha in 1459. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "",
+              "disciption": "Voted as the Best Hotel in the world, Umaid Bhawan Palace is also a major tourist attraction in Jodhpur. Apart from being a heritage hotel, it is a museum and the residence of the Royal Family of the present owner, Raja Gaj Singh. Because of its location on the highest point in Jodhpur, the Chittar Hill, it is also referred to as the Chittar Palace. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "Toorji Ka Jhalra",
+              "disciption": "Toorji Ka Jhalra, commonly called the stepwell of Jodhpur, is an intricate design of stepwell, one of the few remaining structures depicting the traditional water management systems of Jodhpur. This 18th-century stepwell with intricate carvings is a popular spot for photos. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Jaswant Tada",
+              "disciption": "Jaswant Tada is a royal cenotaph built in white marble. It has a small pond and a pretty garden next to it. This structure is just a few minutes downhill walk from the main fort, so there is no need to take a ride. Also called Taj Mahal of Marwar, it was built in the honour and memory of Maharaja Jaswant Singh II and is still used by the Marwar Royal Family as cremation grounds.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Mandore Garden",
+              "disciption": "Famous royal cenotaphs, Mandore Garden is located just 9 kilometres away from Jodhpur in Mandore which was once the ruling seat of the Pratihara dynasty. The garden is a part of the more massive Mehrangarh Fort, and also houses the famous Hall of Heroes and the temple of Three Hundred Million Gods. The garden also has a Government Museum, which is full of artefacts and old relics.",
+              "distance": "13 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "The Rao Jodha Desert Rock Park",
+              "disciption": "The Rao Jodha Desert Rock Park was created out of a large, rocky wasteland by the side of the famous Mehrangarh Fort to restore and reflect the natural ecology of the region. It is home to over 200 species of rocky and arid plants.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Khejarla Fort",
+              "disciption": "Khejarla Fort in Jodhpur is an ancient monument that has since been converted into a heritage hotel. It is built atop granite boulders and made of red sandstone, a signature element of Rajput architecture. The hotel also offers a guided tour of the village.",
+              "distance": "9 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "Balsamand Lake",
+              "disciption": "Balsamand Lake is famous for being the site of the Bal Samand Lake Palace, a heritage hotel. Surrounded by lush gardens, it contains a large variety of trees like mango, papaya, pomegranate, etc. It is a popular spot for a sunset view and a lakeside picnic. ",
+              "distance": "9 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Om Banna",
+              "disciption": "Bullet Baba Temple is dedicated to Om Banna, a traveller who passed away at his site, and his mysterious bike, a 350cc Royal Enfield Bullet. It is located 53 km from Jodhpur, on the Jodhpur Pali highway. Nearby villagers and devotees come to pray for a safe journey while travelling. This temple is especially popular among Royal Enfield enthusiasts.",
+              "distance": "42 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Sheesh Mahal",
+              "disciption": "The Sheesh Mahal in the Mehrangarh Fort of Jodhpur, known as the Glass Palace of Jodhpur, is a marvellous piece of historic architecture is decked from ceiling to floor with fanciful mirror work. It is said to be the bedchamber of Maharaja Ajit Singh between the 17th and 18th centuries. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Mahamandir",
+              "disciption": "Located two kilometres away from Jodhpur on the road towards Mandore, Mahamandir is a very big temple with the fantastically carved 84 pillars which are a sight to behold. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Ranisar and Padamsar Lake",
+              "disciption": "The Ranisar and Padamsar lakes are two artificial lakes situated at the rear of the Mehrangarh Fort in Jodhpur. They were constructed on the orders of two different queens of Jodhpur as a consistent water source for the residents of the city. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "Rai Ka Baag Palace",
+              "disciption": "Constructed in 1663 by the queen of Maharaja Jaswant Singh- I, Hadiji, Rai ka Baag Palace is one of the popular tourist attractions of Jodhpur. The palace is octagonal in shape and currently it houses the income tax office of Jodhpur",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Moti Mahal",
+              "disciption": "Moti Mahal is the largest and brightest room of the five historic rooms present in the Mehrangarh Fort. The materials used for the surface of the hall give it a pearly look, hence the name palace of pearls. The Maharaja would hold private audience with his subjects in this room. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Machia Biological Park",
+              "disciption": "Machia Biological Park is located about 8.5 km from Jodhpur, close to the Kaylana Lake. It is a host to varied species of flora and fauna as well as a nature interpretation centre and the Machia Fort. Along with the enclosures for the animals, one can also find a birdwatching point, proof of the site’s fantastic biodiversity.",
+              "distance": "9 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Kaylana Lake",
+              "disciption": "Kaylana Lake is a massive manmade lake on the outskirts of Jodhpur city. It serves as the primary resource for drinking water for the citizens of Jodhpur and other neighbouring settlements. It also serves as an excellent viewpoint for sunsets. The Siberian Crane can also be spotted here during winter.",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "Masuriya Hill Garden",
+              "disciption": "The Masuriya Hill Garden lies on top of the Masuriya Hill, offering a 360-degree panoramic view of the city of Jodhpur. Inside, one can find a statue of Veer Durgadas Rathore, a temple of Baba Ramdev, and one of the largest TV towers in India. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "Kite Festival",
+              "disciption": "This festival is a major celebration for all of the kite-flying enthusiasts. In its inaugural ceremony, at the Polo Ground, a number of helicopters release a number of kites, along with children releasing a number of balloons. There are two major competitions held during this festival: the Fighter Kite Competition and the Display Kite Competition. The final round of the competition is held in the Umaid Bhawan Palace. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "Shastri Circle",
+              "disciption": "A lively and vibrant part of the city, it is considered a relaxing hangout spot by the locals. The evenings see a musical fountain show with lights to jazz it up. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "Chamunda Mata Temple",
+              "disciption": "Located at the end of Mehrangarh Fort, the Chamunda Mata Temple is a great place to get a panoramic view the sunset over the blue city. It was built along with the Mehrangarh fort when Jodhpur was founded.The Goddess is considered the main deity of the inhabitants of Jodhpur. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "Fun World Resorts",
+              "disciption": "",
+              "distance": " Situated on the Chopasni Road in Jodhpur, Fun World Resorts is one of the most loved and visited water parks cum resort in the city. The park boasts of a separate pool section for kids. Besides, the canteen serves amazing mouth-watering food dishes to tend to your hunger pangs.  km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Udaipur",
+          "lat": "24.6084261",
+          "lng": "73.6370178",
+          "by_air": "The Maharana Pratap airport, also known as the Dabok airport is situated at a distance of 24km from Udaipur. Cities like Delhi, Mumbai and Jaipur have flights scheduled every day from here, which makes the travel quite convenient. ",
+          "by_road": "The city lies midway between Delhi and Mumbai, at the intersection of NH 8, Golden quadrilateral, East west Corridor and NH 76. Road travellers can drive down to the city either from Ahmedabad through NH8 which takes approximately 5 hours or from Jaipur which is a 6-hour journey via the Golden quadrilateral. It's also a 4-hour drive from Kota through the EW corridor.",
+          "by_train": "There are two railway stations in Udaipur- Udaipur City railway station and Rana Pratap Nagar railway station, both well networked to most of the cities in India like Kolkata, Bangalore, New Delhi, Mumbai, Jaipur, Ajmer, Kota, Agra, etc. Both the stations are located within a distance of 3km from the city centre. ",
+          "season": "October to March offer is the best time to visit Udaipur. The winter season is pleasant making it an ideal time to explore the city at its best. Monsoons from July to September is another ideal time to visit Udaipur as it is pleasant and a relief from the torrid climate of Rajasthan. However, summer months must be avoided as the temperatures rise up to 42 degrees. ",
+          "disciption": "Udaipur, formerly the capital of the Mewar Kingdom, is a city in the western Indian state of Rajasthan. Founded by Maharana Udai Singh II in 1559, it’s set around a series of artificial lakes and is known for its lavish royal residences. City Palace, overlooking Lake Pichola, is a monumental complex of 11 palaces, courtyards and gardens, famed for its intricate peacock mosaics.",
+          "cityImage": "https://raw.githubusercontent.com/Sanwal13/VPN/master/CHURU.jpg",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "City Palace",
+              "disciption": "City Palace is Rajasthan's largest palace built along the banks of Lake Pichola. The main part of the palace is open as City Palace Museum with extravagant architecture comprising of ornate halls, royal courtyard, central garden and Zenana Mahal among others. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "Lake Pichola",
+              "disciption": "The oldest and one of the largest lakes of Udaipur, Lake Pichola is enveloped by lofty palaces, temples, and bathing ghats. Boating in Lake Pichola is the most popular thing to do in Udaipur. Boats are easily available from Rameshwar Ghat if visiting from the City Palace. Otherwise, take a boat trip from Lal Ghat. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "Sajjangarh Palace",
+              "disciption": "Also known as Monsoon Palace, Sajjangarh Palace is located at Bansdara Mountain on the outskirts of Udaipur. It was built by Maharana Sajjan Singh as an astronomical observatory. Now it serves as one of the best places to view the Udaipur skyline and panoramic city view, particularly at sunset. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Bagore ki Haveli",
+              "disciption": "Bagore ki Haveli is situated in the Gangaur Ghat Marg, along Lake Pichola. It was built in the 18th century by Amar Chand Badwa, the Prime Minister of Mewar. The haveli houses more than 100 rooms with elaborate exhibits and mirror work. It also houses a museum. The Dharohar Dance Show that is held here every evening.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Jag Mandir",
+              "disciption": "Also known as the Lake Garden Palace, Jag Mandir is located on an island in Lake Pichola. It was once the summer resort of the royal family. The grand palace comprises some impressive structures worth visiting. Jag Mandir can only be visited by boat. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "Eklingji Temple",
+              "disciption": "Almost 22km away from Udaipur, Eklingji Temple is dedicated to Lord Shiva. Taking a cab to this temple is the most convenient way to reach it. It is one of the most famous temples of Rajasthan, also known for its remarkable architecture.",
+              "distance": "20 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Ahar Museum",
+              "disciption": "Ahar Museum, which essentially includes the Ahar Cenotaphs as well as the Ahar Archaeological Museum, is located in Ahar which is about 2km east of Udaipur, Rajasthan. This historical attraction is famous for being the cremation ground of the Maharanas of Mewar and for its beautiful architecture. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "Jagdish Temple",
+              "disciption": "Jagdish Temple is one of the most famous temples in and around Udaipur. It is dedicated to Lord Vishnu in the form of Jagannath. The temple is also popular for its striking architecture. Jagdish Temple is located 150m from City Palace's Badi Pol entrance and has a steep flight of steps to the top. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Saheliyon Ki Bari",
+              "disciption": "A majestic garden located on one of the islands of Fateh Sagar Lake, Saheliyon-ki-Bari has expansive lawns, shady cool walking lanes and imposing fountains. There is also a small museum here. It is one of the best places in Udaipur to relax. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Ambrai Ghat",
+              "disciption": "Ambrai Ghat, also known as Manjhi Ghat Udaipur is one of the best and the most popular ghats in Udaipur. This place is filled with local people as well as tourists. In the early morning hours, you can find peace and solace with old citizens of Udaipur who do Yoga, bathe into lakes, and do several other activities. In the evening, you can enjoy the city lights and appreciate the detailed view of the Heritage Hotels like Lake Palace Udaipur, Jag Mandir, Shiv Niwas etc from the ghat.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Gulab Bagh Zoo",
+              "disciption": "Gulab Bagh Zoo is located in the most abundant garden called Gulab Bagh and implicit to the name it has a variety of well-maintained roses. The mini zoo within the garden is a short walk away from the rose gardens. A very few numbers of species of animals are housed in this zoo including the wide-eyed owls and has enough places to visit within the vicinity like the toy train which is open to the kids and the adults. There is an enormous artificial water body called Kamal Talai which adds to the palace like the beauty of the Garden and a Navlakha Mahal, a religious place for parents to visit.",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Jaisamand Lake",
+              "disciption": "Jaisamand Lake, also known as Dhebar Lake, is the second-largest artificial lake in India. Hawa Mahal, Ruthi Rani ka Mahal, Jaisamand Wildlife Sanctuary and Jaisamand Island Resort are located on its shores and islands.",
+              "distance": "47 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "The Udaipur Fish Aquarium",
+              "disciption": "The Udaipur Fish Aquarium, formally known as the Under the Sun Aquarium, is located near Vibhuti Park and Fateh Sagar Lake, and is actually the largest Public Aquarium Gallery in India. Along with hundreds of fish species and other aquatic creatures, it also houses virtual reality experience and 3D arts",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Sukhadia Circle",
+              "disciption": "Sukhadia Circle, also called The Heart Of Panchvati, is located In the north of the Udaipur city. This splendid turn around Panchwati is a small pond amidst which lies a 21 Ft high three-tiered fountain.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Vintage Car Museum",
+              "disciption": "Located just a few kilometers away from the magnificent City Palace Vintage Car Museum is an awesome place for automobile and car lovers.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Shilpgram",
+              "disciption": "Located at the foot hills of Aravali Mountains in Udaipur, Shilpgram is a craftsmen's village which encloses twenty-six huts constructed in traditional architectural styles and these huts display many house hold decorative articles. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "Doodh Talai",
+              "disciption": "Doodh Talai Musical garden is a rock and fountain garden which is a great place to enjoy the sunset and one can see the wide expanse of the city. Also, there is an Areal tramway (cable car) connecting a garden of Doodh Talai and the Karni mata Temple. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "Wax Museum",
+              "disciption": "One of the most well-known tourist attractions in Udaipur, Rajasthan, the Wax Museum is situated on the Sahelion ki Bari Road. It is visited by locals and foreigners alike for its numerous wax statues of celebrities as well as other fun facilities like a Mirror Maze, a Horror House as well as a 9D Cinema. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "Crystal Gallery",
+              "disciption": "Crystal gallery has a stunning collection of crystal artefacts and is the largest collection of crystal in the world. The gallery is located inside the Fateh Prakash Palace and was established by Maharana Sajjan Singh in 1877. He had ordered the crystal artefacts from Birmingham in 1877. However, by the time they were delivered, Maharana has passed away. 110 years later, in 1994, the artefacts were displayed in the gallery which has been open to the public ever since. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "Menar",
+              "disciption": "An absolute treat for nature lovers, Menar Village about 45km away from Udaipur, Rajasthan basically comprises a lake and bird sanctuary. This picturesque attraction is usually not very crowded and is the perfect location to witness a variety of migratory birds and to engage in nature photography.",
+              "distance": "45 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "Nehru Garden",
+              "disciption": "Constructed in an Island at the heart of Fateh Sagar Lake, Nehru Garden encloses many distinct water fountains resembling those in Brindavan Gardens of Mysore. Another major attraction of the garden is a floating restaurant, in a boat shape. ",
+              "distance": "4 km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Jaisalmer",
+          "lat": "26.903651",
+          "lng": "70.8597106",
+          "by_air": "There are regular flights from Delhi, Mumbai, and Bangalore to Jodhpur. One can take connecting flights to this place from the other cities. It is advisable to take a cab from the Jodhpur airport to Jaisalmer. The picturesque view will make the 4-5 hours journey worthwhile.",
+          "by_road": "Jaisalmer is well connected via a network of roads to most nearby cities. Buses are also easily available since it is such a popular destination among tourist.",
+          "by_train": "Jaisalmer is really well connected in terms of the railway network. Especially with cities like Delhi, Jaipur and Jodhpur, with major trains like “Delhi Jaisalmer Express”, “Jodhpur Jaisalmer Express”, and “Howrah Jaisalmer Express”. Rickshaws and autos are easily available outside the railway station. It usually takes about INR 40-50 for an auto ride to the centre of the city from the railway station.",
+          "season": "October to March is the best time to visit Jaisalmer as the weather during this time is pleasant. Situated in the heart of Thar Desert, the summers are extremely dry and hot and must be avoided. The heat will definitely take a toll on your body, and you will not be able to enjoy your trip to the fullest. During winters, the temperatures fall up to 1 or 2 degree Celsius, especially during the night, so warm clothing is necessary. The monsoon season is also a good time to travel to Jaisalmer. During this time you might get a glimpse of some greenery growing on the arid turf. Jaisalmer is a colourful and vibrant place with an even more beautiful culture that should be a must-visit.",
+          "disciption": "Jaisalmer is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the Golden City, it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.",
+          "cityImage": "https://raw.githubusercontent.com/Sanwal13/VPN/master/CHURU.jpg",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "",
+              "disciption": "",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "",
+              "disciption": "",
+              "distance": "17 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "",
+              "disciption": "",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "",
+              "disciption": "",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "",
+              "disciption": "",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "",
+              "disciption": "",
+              "distance": "13 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "",
+              "disciption": "",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "",
+              "disciption": "",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "",
+              "disciption": "",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "",
+              "disciption": "",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "",
+              "disciption": "",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "",
+              "disciption": "",
+              "distance": "18 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "",
+              "disciption": "",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "",
+              "disciption": "",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "",
+              "disciption": "",
+              "distance": "2 km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Bikaner",
+          "lat": "28.0214793",
+          "lng": ",73.284521",
+          "by_air": "The nearest airport is the Nal Airport located at a distance of around 13km from Bikaner. But, it is still under construction and has not started its operations yet. The next nearest airport is the Jodhpur Airport which is well-developed and is connected to various major cities. It is at a distance of around 251 km from the city. From there you can take a bus or a taxi. There are numerous buses and taxis operating on this route. Alternatively, you can also take a flight to Jaipur and take a taxi or bus from there. You can also land at Delhi and take a taxi or overnight bus from there.",
+          "by_road": "The city is well connected to many other cities by road. Regular bus services and taxis are available for Bikaner. The roads are considerably smooth. According to your budget, you can board either a government or a private bus.",
+          "by_train": "There are two railway stations in Bikaner- Bikaner Junction and Lalgarh Railway Junction located at a distance of 6 km from the city. These are connected to many major cities like Jaipur, Punjab, Delhi, Hyderabad, Mumbai and others. From any of these two stations, you will easily find a taxi to reach the city or your hotel. ",
+          "season": "The best time to visit Bikaner is from October to March, which is during the Winter season. Camel festival takes place in January every year. Rest of the year is extremely hot and should be avoided. Bikaner witnesses extreme winters and extreme summers. From March to June, the days are sweltering with the temperature rising to 46 degrees celsius. Dust storms are very common during this season. The monsoon arrives during the period of July to September. These months are also not as suitable as the weather becomes hot and humid. October to February is the winter season. The temperature may fall to 4 degrees. However, this is the best time to visit Bikaner since the weather is pleasant. ",
+          "disciption": "Bikaner is a city in the north Indian state of Rajasthan, east of the border with Pakistan. It's surrounded by the Thar Desert. The city is known for the 16th-century Junagarh Fort, a huge complex of ornate buildings and halls. Within the fort, the Prachina Museum displays traditional textiles and royal portraits. Nearby, the Karni Mata Temple is home to many rats considered sacred by Hindu devotees.",
+          "cityImage": "https://raw.githubusercontent.com/Sanwal13/VPN/master/CHURU.jpg",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "Junnagarh Fort",
+              "disciption": "For a change, this is one of the few forts which is not built on a hill. Instead, this fort, built in the arid region of the Thar Desert, is famous for its marvellous architecture, intricate carvings which leave travellers mesmerized. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "Karni Mata Temple",
+              "disciption": " Located in Deshnoke, 30 km from Bikaner, Karni mata temple is the place where devotees and rats share a special bond. The temple is heavily influenced by mogul architecture and the entire temple is built with beautiful white marble. ",
+              "distance": "30 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "Gajner Palace",
+              "disciption": "Gajner Palace is located in the city of Bikaner on the banks of Gajner Lake. This regal palace was built by Maharaja Ganga Singh as a hunting lodge for him and his family but was converted to a hotel in 1976. Gajner Palace offers you a variety of leisure activities from boat rides to desert safaris. Built as a traditional Rajasthani Palace, it is an architectural beauty that now is modernised to host guests. The entire vicinity is filled with lush green trees while the glorious palace itself offers recreational activities like billiards, lawn tennis, cycling, bird watching and wildlife safaris. ",
+              "distance": "27 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Lalgarh palace",
+              "disciption": "Lallgarh Palace was constructed for the Maharaja of Bikaner, Maharaja Ganga Singh, between 1902 and 1926. The palace built in European architecture style has now been opened up for tourists as a Heritage Hotel, and the entire estate comes under the National Heritage Trust. The estate also houses a museum named Shri Sadul Museum, where you can find traces of Rajasthani Royalties and get an insight into their extravagant lifestyle.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Rampuria Haveli",
+              "disciption": "Among all other havelis like Rikhji Bagri ki Haveli, Haveli of Bhairondan, Daga Chowk Havelis and Sampatlala Agarwal Haveli, Rampuria group of Havelis are known for their more than 400 years old architecture splendour. With intricate details of jharokhas and carvings, havelis are no less than palaces. ",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "Camel Festival",
+              "disciption": "A two day event organized every year in the month of January, the Camel festival has some spectacular and unusual camel performances like camel races, camel dances, and the bumpy, neck shaking camel rides take place at this event. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Bhandasar Jain Temple",
+              "disciption": "Bhandasar Jain Temple is one of the 27 beautiful Jain temples located in Bikaner. This temple is dedicated to the fifth Tirthankara, Sumatinath and it is also considered to be the most beautiful and the highest temple. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "The Royal Cenotaphs",
+              "disciption": "The Royal Cenotaphs is the cremation ground of the foyal families of Bikaner. It is an architectural treat for the tourists. The splendid structure with intricately carved marble pillars display legends of Lord Krishna and other beautiful traditional designs. The oldest monument on the ground was installed in the honour of Rao Kalyanmal and the earliest is the one made for Maharaja Karni Singh.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Kodamdesar Temple",
+              "disciption": "Built by the founder of Bikaner, Rao Bikaji, Kodamdesar Bhairu Ji Temple has been religiously important for the Hindus. The presiding deity is Lord Bhairu ji who was born from the place between the eyebrows, also called the third eye of Lord Shiva. Hence, the deity is considered to be an incarnation of Lord Shiva and his ferocious form. ",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Sadul Singh Museum",
+              "disciption": "Dedicated to the Maharajas of Bikaner, Maharaja Ganga Singh, Maharaja Karni Singh and Maharaja Sadul Singh, the Sadul Singh Museum has a fabulous collection of artefacts belonging to the kings, paintings, trophies, weapons, photographs to mention a few. It is the best place to get insights into the heroic activities of the Maharajas. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Shiv Bari Temple",
+              "disciption": "Built of red sand stone, the Shiv Bari Temple is located about 6km from Bikaner. Fortified by a high wall the temple is dedicated to Lord Shiva. The temple has a beautiful wall panting of Nandi Bull facing the Shiva Lingam. ",
+              "distance": "128 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Ganga Singh Museum",
+              "disciption": "Ganga Singh Museum has a marvellous collection of artefacts belonging to the Harappan Civilisation and Gupta Dynasty. The museum is a perfect attraction for history and archaeological buffs as the stunning antiques like pottery, paintings, terracotta artwork, etc. are sure to give one a peep into the rich ancient heritage of India.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "Sursagar Lake",
+              "disciption": "Sursagar Lake was dug out during the reign of Maharaja Sur Singh to curb water shortage in the region. With well maintained surroundings and proper seating arrangement around the mesmerizing lake, it is a famous attraction and a preferred picnic spot in the city. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Laxmi Niwas Palace",
+              "disciption": "Once a royal palace of Maharaja Ganga Singh, Laxmi Niwas Palace is a stunning attraction which is now open to the public as a heritage hotel. The architectural beauty of the palace and its rich historic and heritage value draw guests in large numbers. The grand palace also has a museum that can be explored to get a glimpse into the royalty of Bikaner. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Kolayat",
+              "disciption": "Kolayat is a quaint little town famous for the Kapil Muni Fair, the largest fair in the city, the sacred waters of the Kolayat Lake and the divine Kolayat Temple. It is, therefore, a famous pilgrimage. Legend states that Kapil Muni stopped here and meditated to bring about peace and harmony when he was passing by.",
+              "distance": "41 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Sri Laxminath Temple",
+              "disciption": "Built in the 14th Century by Maharaja Rao Lunakaran, Sri Laxminath Temple is the oldest temple in the city. The presiding deities are Lord Vishnu and Goddess Lakshmi. The colourful architecture with sculptures, painting and silver artwork and the rich religious significance of the temple attracts tourists in large numbers. ",
+              "distance": "2 km from city center"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "state": "Himachal Pradesh",
+      "short_disc": "Rajasthan literally means The Land of Kings. The geographic features of Rajasthan are the Thar Desert and the Aravalli Range, which runs through the state from southwest to northeast, almost from one end to the other, for more than 850 kilometres (530 mi). Mount Abu lies at the southwestern end of the range, separated from the main ranges by the West Banas River, although a series of broken ridges continues into Haryana in the direction of Delhi where it can be seen as outcrops in the form of the Raisina Hill and the ridges farther north. About three-fifths of Rajasthan lies northwest of the Aravallis, leaving two-fifths on the east and south direction.",
+      "area": "342,239 km2 (132,139 sq mi)",
+      "capital": "Jaipur",
+      "no_district": "33",
+      "state_img": "https://raw.githubusercontent.com/Sanwal13/VPN/master/RAJASTHAN.jpg",
+      "population": {
+        "total": "68,548,437",
+        "rank": "7",
+        "density": "200/km2 (520/sq mi)"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/AJMER.jpg",
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/ALWAR.jpg",
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/BIKANER.jpg",
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/BUNDI.jpg",
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/CHITTORGARH.jpg",
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/CHURU.jpg",
+        "https://raw.githubusercontent.com/Sanwal13/VPN/master/RAJASTHAN.jpg"
+      ],
+      "places": [
+        {
+          "city": "Jaipur",
+          "lat": "26.8854479",
+          "lng": "75.6504712",
+          "by_air": "Air travel is the most convenient way to reach the pink city. The Sanganer airport is well connected to the major cities of India as well as the globe through a number of airlines operating on a regular basis.",
+          "by_road": "The Rajasthan State Road Transport Corporation (RSRTC) runs luxury and deluxe buses between Jaipur and other cities within the state of Rajasthan. There is a regular service from cities like New Delhi, Kota, Mumbai, Ahmedabad, Udaipur, Vadodara, and Ajmer at reasonable fares.",
+          "by_train": "The Indian Railways offers a number of express trains to reach Jaipur from other parts of India.Trains like the Shatabdi Express connects Jaipur to almost all major cities of India. An additional attraction is The Palace on Wheels which offers a royal ride to Jaipur. A train journey through the desert is an enthralling experience in itself. ",
+          "season": "November to March is the best time to visit Jaipur and other parts of Rajasthan as the weather ranges between 8-degree Celcius during nights to 32-degree Celcius in the day. Summers are extremely hot, and sightseeing isn't a very joyful experience. Monsoons, on the other hand, are quite hot and humid which isn't an ideal time to visit too. January is an excellent time to visit Jaipur because of the Kite Festival and also the Jaipur Literature Festival that's held around this time. Sometime in the month of March, Jaipur witnesses the Elephant festival, just a day before Holi. ",
+          "disciption": "Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence.",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "Amber Fort",
+              "disciption": "Cradled on the top of a hill near Jaipur lies the Amer Fort, one of the most magnificent palaces in India. Also commonly known as the Amber Fort, this majestic building is a part of an extensive complex. The massive fort can be explored in 2-3 hours. Audio guides are available explaining the history. Getting an elephant ride up the stairs to the Amber Fort is also a popular tourist activity. A sound and light show is also held here every evening.",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "Village of Choki Dhani",
+              "disciption": "Chokhi Dhani is a luxury heritage resort synonymous with Rajasthani village culture. It is located a little on the outskirts of the city on Tonk Road. It is a true depiction of traditional Rajasthan with ancient artefacts, handicrafts, paintings, folklore and sculptures. The village offers myriad entertainment options- folk dances, singing, camel rides, puppet shows, fortune-tellers, acrobatics, predicting parrots, magic shows, horse riding. etc. It is also known for its traditional Rajasthani food.",
+              "distance": "17 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "City Palace",
+              "disciption": "The City Palace is the main palace from where the Maharaja Sawai Jai Singh reigned. The palace includes the Chandra Mahan and Mubarak Mahal along with various other buildings within the complex. It is located towards the north-eastern side of Jaipur. The palace is divided into a series of courtyards, buildings and gardens. There is a museum that showcases various unique handcrafted products and other things that belong to the royal heritage of the City Palace.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Hawa Mahal",
+              "disciption": "The Hawa Mahal stands at the intersection of the main road in Jaipur, Badi Chaupad. It is regarded as the signature building of Jaipur. From within, the Hawa Mahal palace is based on five floors each of which has a uniquely decorated chamber. The top of the palace offers a brilliant view of the City Palace, Jantar Mantar and the ever-busy Siredeori Bazar. There is a small museum as well which holds some rich relics and miniature paintings.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Jantar Mantar",
+              "disciption": "Jantar Mantar in Jaipur is the largest stone astronomical observatory in the world. It is located just next to the City Palace. Built during the period between 1727 and 1733, the Jantar Mantar is still in a running condition and it stands as a witness regarding the wisdom of former age. The world's largest sundial is also situated here. A light and sound is conducted here every evening. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "Nahargarh Fort",
+              "disciption": "Nahargarh Fort, situated on the outskirts of Jaipur, is known for breathtaking views of the city and its extended wall that connects it to Jaigarh Fort. Embellished with delicate carvings and stonework, it is an impregnable structure and together with its two neighbouring forts - Amer and Jaigarh once stood as the strong defence of Jaipur city. The Padao Restaurant is also a must-visit if you're near Nahargarh Fort from where you're sure to enjoy a panoramic view of the city of Jaipur.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Albert Hall Museum",
+              "disciption": "Situated in the Ram Niwas Garden, Albert Hall Museum is one of the oldest museums of Rajasthan. It has a rich collection of various kinds of items such as paintings, carpets, ivory, stone, metal sculptures, colourful crystal works etc. The museum looks stunning with yellow lights at night.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "Birla Temple",
+              "disciption": "Located on an elevated ground at the base of Moti Dungri hill, the Birla Temple of Jaipur is dedicated to Lord Vishnu (Narayan), the preserver and his consort Lakshmi, the Goddess of wealth. It is also known as the Lakshmi Narayanan Temple and forms a part of one of the several Birla temples located all around the country.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Masala Chowk",
+              "disciption": "Located in Ram Niwas Garden, this open-air food court offers 21 flavours of the Pink City under one roof (or sky). Masala Chowk brings the best Jaipur has to offer in street food and assembles it in one place. Initially, the place was meant to attract tourists, given its proximity to the famous Albert Hall Museum in the area. However, Masala Chowk has become the talk of the town amongst the locals too.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Jaigarh Fort ",
+              "disciption": "Jaigarh Fort is a grand structure perched on the top of the 'Cheel ka teela' hills designed by a talented architect called Vidhyadhar. The fort reflects the city's prosperous past and is named after the ruler who got it built, Sawai Jai Singh II. It is connected to Amer Fort through subterranean passages. The fort currently houses the world's largest cannon on wheels - 'Jaivana' and offers a magnificent view of Jaipur city.",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Pink Pearl Fun City Resort and Amusement Park",
+              "disciption": "Situated in Bhakrota, on the outskirts of Jaipur, Pink Pearl Fun City Resort and Amusement Park is one of the most popular amusement parks in the city. Replete with a number of thrilling rides and adventure activities both for kids and for adults, the park is buzzing with activity all year round.",
+              "distance": "13 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Galtaji Temple",
+              "disciption": "Located in the City Palace complex, Galtaji Temple is a prehistoric Hindu pilgrimage site. Outlined by the striking Aravalli hills, the vast temple complex consists of several shrines, holy kunds, pavilions and natural springs. The walls of this temple are beautifully adorned with carvings and paintings and it is designed to resemble a grand haveli.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "Jal Mahal",
+              "disciption": "Jal Mahal is one of the most photographed monuments in India. It is located in the centre of Man Sagar Lake. The most striking feature of this palace is that while only one storey appears above the water level, there are in fact 4 storeys submerged underneath. The entry inside the fort is prohibited, but the view from a considerable distance while boating is breathtaking. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Gatore ki Chhatriyan",
+              "disciption": "Slightly outside of Jaipur, Gatore ki Chhatriyan is the crematorium grounds for the Kachwahas, a Rajput dynasty. It is set in a tranquil location and consists of a number of beautiful cenotaphs which mark the official cremation spots of the former rulers. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Amrapali Museum ",
+              "disciption": "Amrapali Museum is one of the popular museums of Jaipur known for showcasing different styles of Indian Jewellery art. It houses a wide collection of Tribal jewellery along with Mughal style, Rajput style and temple jewellery. ",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Pink City",
+              "disciption": "Pink City in Jaipur refers to the old walled city that was built in the year 1727 by Maharaja Jai Singh II. A number of important structures such as Badi Chaupar, Jantar Mantar and City Palace are situated in this part of the city along with Bapu Bazaar and Johri Bazaar. The city is known as 'Pink City' as it is built out of Sandstone and reflects the colour pink in the daytime. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "Patrika Gate",
+              "disciption": "Patrika Gate serves as the entrance to the Jawahar Circle Park and is one of the photographed spots in India. A massive gate famous for its gorgeous architecture, it is characterised by vibrant colours and intricate carvings that symbolise the Rajasthani culture. ",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "Angel Resort and Amusement Park",
+              "disciption": "Situated on the Sikar highway in Jaipur, Angel Resort and Amusement Park is a resort cum water park cum amusement park as the name suggests. The property offers stay and accommodation facility as well. It also has a number of fun adventure activities that you can try your hand at. ",
+              "distance": "18 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "Amar Jawan Jyoti",
+              "disciption": "The Amar Jawan Jyoti in Jaipur, Rajasthan is a monument located at Jan Path on the Jaipur Nagar Nigam road. Built to commemorate the soldiers and martyrs from Jaipur who served India during wartime, it is known for its flames that never stop burning. ",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "Jaipur Zoo",
+              "disciption": "A zoological garden in Jaipur, Rajasthan, the Jaipur Zoo is situated close to the Albert Hall Museum and within the Ram Niwas Garden premises. It is is one of the oldest zoos in the country and India’s fourth-largest gharial breeding farm. There is also a small museum within the zoo premises.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "Central Park",
+              "disciption": "The Central Park of Jaipur is the largest park in Jaipur. With its big lush garden and long-running track, the park also has the tallest and first day and night national flag. It is popular amongst tourists and locals for picnic.",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "22",
+              "place": "Sisodia Rani Garden",
+              "disciption": "Sisodia Rani Garden is a royal garden built on the premises of the Sisodia Palace in Jaipur. The step garden has a central water fountain with channels running through it. The best time to explore this garden is in the morning or the evening. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "23",
+              "place": "Rambagh Palace",
+              "disciption": "Located about 8 kms from the city centre of Jaipur, Rambagh Palace is one among the finest palaces of Jaipur. Once a residence of the Maharaja of Jaipur, today the palace has been converted into a luxury heritage resort with brilliant architecture, lighting and facilities. ",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "24",
+              "place": "Govind Ji Temple",
+              "disciption": "For Krishna followers, this is the most significant temple in the world after Vrindavan. It is believed that the statue of the deity here looks exactly like Krishna's form during his incarnation of Earth. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "25",
+              "place": "Moti Dungri Temple",
+              "disciption": "Moti Dungri Temple in Jaipur is located on a small hillock and is bordered by Moti Dungri Fort. In spite of being a cultural landmark, Moti Dungri Fort cannot be viewed by the public as it is privately owned. The temple is dedicated to Lord Ganesha and houses the idol of deity that is purportedly 500 years.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "26",
+              "place": "Raj Mandir",
+              "disciption": "Raj Mandir is an ancient cinema hall in Jaipur, conceptualized in the late-1960s by Mehtab Chandra Golcha. It is entitled “Pride of Asia” for its magnificent architecture, the ambience and the surreal experience it provides to its audiences. ",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "27",
+              "place": "Panna Meena ka Kund",
+              "disciption": "Panna Meena ka Kund in Jaipur is one of the many famous stepwells that still stand in the western part of India. The historical stepwell is known for its symmetrical staircase on all four sides. The stairs are made in such a manner that you can reach any of them from anywhere, by simply climbing up and down some flights. ",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "28",
+              "place": "Ram Niwas Garden",
+              "disciption": "Ram Niwas Garden is a royal garden built in 1868 by Maharaja Sawai Ram Singh. A historical landmark, the Albert Hall Museum is located here. Explore the lush green landscaped gardens and or visit the theatre, the Bird Park, the Zoo or the Art Gallery. There are also several cafes located nearby. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "29",
+              "place": "Digamber Jain Mandir Sanghiji",
+              "disciption": "Digamber Jain Mandir Sanghiji is a Jain temple situated 16 kms away from Jaipur in the town of Sanganer. Built of red sandstone, the temple enshrine Adinath- the first Jain tirthankara in the central shrine. Boasting of Shikhara style architecture, the temple has several carvings on the inner walls of the shrine of lotuses, creepers and elephants ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "30",
+              "place": "Abhaneri Stepwell",
+              "disciption": "Located around 20 km from Jaipur, Abhaneri Stepwell is one of the largest stepwells and most intricate pieces of architecture in Rajasthan. Also, known as Chand Baori, the geometry of the stepwell is mesmerising. The Step Well is deep with 3,500 steps going down to nearly 20 meters to the base and has 13 floors in between. ",
+              "distance": "20 km from city center"
+            },
+            {
+              "id": "31",
+              "place": "Bapu Bazaar",
+              "disciption": "Situated in the heart of the Pink city between Sanganer Gate and New Gate, Bapu Bazaar is known for its alluring Rajasthani quintessential products including textiles, handicrafts, brass works and precious stones. It is one of the most famous markets of the city for buying traditional Jutis, Bangles, Dupattas, Sarees, Scarves etc.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "32",
+              "place": "Kale Hanuman Ji Ka Mandir",
+              "disciption": "The Kale Hanuman Ji Temple, often known as the Kale Hanuman Ji Ka Mandir, is a Hindu temple in the Chandi ki Taksal neighbourhood of Jaipur, Rajasthan. It is known for housing a unique black statue of Lord Hanuman. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "33",
+              "place": "World Trade Park (WTP",
+              "disciption": "World Trade Park is situated in Malviya Nagar in Jaipur and is the second largest mall of the country. The construction of the mall costed 350 crores and it took two years to finish it. It was inaugurated in the year 2012 by Shahrukh Khan. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "34",
+              "place": "Johari Bazaar",
+              "disciption": "Painted in pink, Johari Bazaar is the oldest market in Jaipur popular for its vibrant ambience, delicious food and premium quality Kundan jewellery. Considered a haven for jewellery junks, the market offers a wide variety of glittering Jaipuri jewellery made in gold, silver, diamonds, emeralds, and rubies.",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "35",
+              "place": "Akshardham Temple",
+              "disciption": "Dedicated to the Hindu God, Narayan Akshardham Temple is known for its beautiful architecture, magnificent idols, sculptures, and carvings. The lush green surroundings add to its beauty and serenity. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "36",
+              "place": "Jawahar Circle",
+              "disciption": "Jawahar Circle is situated in Malviya Nagar in Jaipur and boasts of being the largest circular park in Asia. The park has a peculiar jogging track and is encircled by a rose garden. Besides, it has play area for kids and kiosks. The main highlight of the park is the dance of the musical fountains which is one of the most popular tourist attractions of the city. ",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "37",
+              "place": "Khole Ke Hanuman Ji Temple",
+              "disciption": "Located on the Delhi bypass in Jaipur at Lakshman Dungri, Khole Ke Hanuman Ji Temple is a Hindu revered temple dedicated to Lord Hanuman. The temple is perched on a hillock and offers some panoramic views of the surrounding hills. Besides, the shrine has a spacious sanctum which can accommodate around 500 people at once. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "38",
+              "place": "Garh Ganesh Temple",
+              "disciption": "Garh Ganesh Temple is an ancient temple built by Maharaja Sawai Jai Singh before he laid the foundation stone of the city of Jaipur. The temple is located near Jaigarh and Nahargarh Forts on the Aravalli Hills. It is dedicated to Lord Ganesh who is revered in Vigra Purushakriti, which means his child-form is worshipped here. The temple is often a halting spot for trekkers who explore the Aravalli Hills for a fabulous view of the city. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "39",
+              "place": "Rajmahal Palace",
+              "disciption": "Built in 1729, Rajmahal Palace is a symbol of love by Maharaja Sawai Jai Singh II for his wife. Briefly occupied by the British, the palace has now been restored and converted into a luxury stay. It still houses some of the ancient relics and royal chandeliers from the bygone era. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "40",
+              "place": "Narain Niwas Palace",
+              "disciption": "Built by Thakur of Kanota, General Amar Singh, Narain Niwas Palace boasts of Anglo Indian style of architecture of the Victorian era. The palace has now been converted into a heritage home to give you a glimpse of the opulent royal lifestyle. ",
+              "distance": "3 km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Jodhpur",
+          "lat": "26.2704963",
+          "lng": "72.9605027",
+          "by_air": "Jodhpur has a well-functioning airport with direct flights to Mumbai/Delhi/Ahmedabad and some other cities in Gujarat/Rajasthan. Flights could be a little expensive as there are just a few flights to here",
+          "by_road": "Jodhpur has great road connectivity from other parts of the state. You can book sleeper bus tickets from Delhi or Ahmedabad - these typically have an overnight schedule and drop you in Jodhpur early morning. They are quite cheap and comfortable, and a good way to reach Jodhpur if you're not able to get train tickets but want to do a budget trip. ",
+          "by_train": "Jodhpur railway station has good train connectivity with almost all the major cities in Rajasthan, and from Delhi/Mumbai/Ahmedabad and even Kolkata.",
+          "season": "November to February are the best months to visit Jodhpur, although they are cold, with temperatures going close to 0 degree celsius for a few days in January. This is a good weather to visit the forts of Jodhpur. October and March also provides pleasant weather for a trip to Jodhpur. However, being in an arid land, Rajasthan and also Jodhpur is extremely hot during summers, so April to September must be avoided. ",
+          "disciption": "Jodhpur is a city in the Thar Desert of the northwest Indian state of Rajasthan. Its 15th-century Mehrangarh Fort is a former palace that’s now a museum, displaying weapons, paintings and elaborate royal palanquins (sedan chairs). Set on on a rocky outcrop, the fort overlooks the walled city, where many buildings are painted the city’s iconic shade of blue.",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "Mehrangarh Fort",
+              "disciption": "Mehrangarh Fort is one of the largest forts in the country. It is located at the top of a 410 feet elevated hill and guarded by huge walls. The fort encloses a museum now which exhibits various belongings of the royals. The palace was built by Rao Jodha in 1459. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "",
+              "disciption": "Voted as the Best Hotel in the world, Umaid Bhawan Palace is also a major tourist attraction in Jodhpur. Apart from being a heritage hotel, it is a museum and the residence of the Royal Family of the present owner, Raja Gaj Singh. Because of its location on the highest point in Jodhpur, the Chittar Hill, it is also referred to as the Chittar Palace. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "Toorji Ka Jhalra",
+              "disciption": "Toorji Ka Jhalra, commonly called the stepwell of Jodhpur, is an intricate design of stepwell, one of the few remaining structures depicting the traditional water management systems of Jodhpur. This 18th-century stepwell with intricate carvings is a popular spot for photos. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Jaswant Tada",
+              "disciption": "Jaswant Tada is a royal cenotaph built in white marble. It has a small pond and a pretty garden next to it. This structure is just a few minutes downhill walk from the main fort, so there is no need to take a ride. Also called Taj Mahal of Marwar, it was built in the honour and memory of Maharaja Jaswant Singh II and is still used by the Marwar Royal Family as cremation grounds.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Mandore Garden",
+              "disciption": "Famous royal cenotaphs, Mandore Garden is located just 9 kilometres away from Jodhpur in Mandore which was once the ruling seat of the Pratihara dynasty. The garden is a part of the more massive Mehrangarh Fort, and also houses the famous Hall of Heroes and the temple of Three Hundred Million Gods. The garden also has a Government Museum, which is full of artefacts and old relics.",
+              "distance": "13 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "The Rao Jodha Desert Rock Park",
+              "disciption": "The Rao Jodha Desert Rock Park was created out of a large, rocky wasteland by the side of the famous Mehrangarh Fort to restore and reflect the natural ecology of the region. It is home to over 200 species of rocky and arid plants.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Khejarla Fort",
+              "disciption": "Khejarla Fort in Jodhpur is an ancient monument that has since been converted into a heritage hotel. It is built atop granite boulders and made of red sandstone, a signature element of Rajput architecture. The hotel also offers a guided tour of the village.",
+              "distance": "9 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "Balsamand Lake",
+              "disciption": "Balsamand Lake is famous for being the site of the Bal Samand Lake Palace, a heritage hotel. Surrounded by lush gardens, it contains a large variety of trees like mango, papaya, pomegranate, etc. It is a popular spot for a sunset view and a lakeside picnic. ",
+              "distance": "9 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Om Banna",
+              "disciption": "Bullet Baba Temple is dedicated to Om Banna, a traveller who passed away at his site, and his mysterious bike, a 350cc Royal Enfield Bullet. It is located 53 km from Jodhpur, on the Jodhpur Pali highway. Nearby villagers and devotees come to pray for a safe journey while travelling. This temple is especially popular among Royal Enfield enthusiasts.",
+              "distance": "42 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Sheesh Mahal",
+              "disciption": "The Sheesh Mahal in the Mehrangarh Fort of Jodhpur, known as the Glass Palace of Jodhpur, is a marvellous piece of historic architecture is decked from ceiling to floor with fanciful mirror work. It is said to be the bedchamber of Maharaja Ajit Singh between the 17th and 18th centuries. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Mahamandir",
+              "disciption": "Located two kilometres away from Jodhpur on the road towards Mandore, Mahamandir is a very big temple with the fantastically carved 84 pillars which are a sight to behold. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Ranisar and Padamsar Lake",
+              "disciption": "The Ranisar and Padamsar lakes are two artificial lakes situated at the rear of the Mehrangarh Fort in Jodhpur. They were constructed on the orders of two different queens of Jodhpur as a consistent water source for the residents of the city. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "Rai Ka Baag Palace",
+              "disciption": "Constructed in 1663 by the queen of Maharaja Jaswant Singh- I, Hadiji, Rai ka Baag Palace is one of the popular tourist attractions of Jodhpur. The palace is octagonal in shape and currently it houses the income tax office of Jodhpur",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Moti Mahal",
+              "disciption": "Moti Mahal is the largest and brightest room of the five historic rooms present in the Mehrangarh Fort. The materials used for the surface of the hall give it a pearly look, hence the name palace of pearls. The Maharaja would hold private audience with his subjects in this room. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Machia Biological Park",
+              "disciption": "Machia Biological Park is located about 8.5 km from Jodhpur, close to the Kaylana Lake. It is a host to varied species of flora and fauna as well as a nature interpretation centre and the Machia Fort. Along with the enclosures for the animals, one can also find a birdwatching point, proof of the site’s fantastic biodiversity.",
+              "distance": "9 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Kaylana Lake",
+              "disciption": "Kaylana Lake is a massive manmade lake on the outskirts of Jodhpur city. It serves as the primary resource for drinking water for the citizens of Jodhpur and other neighbouring settlements. It also serves as an excellent viewpoint for sunsets. The Siberian Crane can also be spotted here during winter.",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "Masuriya Hill Garden",
+              "disciption": "The Masuriya Hill Garden lies on top of the Masuriya Hill, offering a 360-degree panoramic view of the city of Jodhpur. Inside, one can find a statue of Veer Durgadas Rathore, a temple of Baba Ramdev, and one of the largest TV towers in India. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "Kite Festival",
+              "disciption": "This festival is a major celebration for all of the kite-flying enthusiasts. In its inaugural ceremony, at the Polo Ground, a number of helicopters release a number of kites, along with children releasing a number of balloons. There are two major competitions held during this festival: the Fighter Kite Competition and the Display Kite Competition. The final round of the competition is held in the Umaid Bhawan Palace. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "Shastri Circle",
+              "disciption": "A lively and vibrant part of the city, it is considered a relaxing hangout spot by the locals. The evenings see a musical fountain show with lights to jazz it up. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "Chamunda Mata Temple",
+              "disciption": "Located at the end of Mehrangarh Fort, the Chamunda Mata Temple is a great place to get a panoramic view the sunset over the blue city. It was built along with the Mehrangarh fort when Jodhpur was founded.The Goddess is considered the main deity of the inhabitants of Jodhpur. ",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "Fun World Resorts",
+              "disciption": "",
+              "distance": " Situated on the Chopasni Road in Jodhpur, Fun World Resorts is one of the most loved and visited water parks cum resort in the city. The park boasts of a separate pool section for kids. Besides, the canteen serves amazing mouth-watering food dishes to tend to your hunger pangs.  km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Udaipur",
+          "lat": "24.6084261",
+          "lng": "73.6370178",
+          "by_air": "The Maharana Pratap airport, also known as the Dabok airport is situated at a distance of 24km from Udaipur. Cities like Delhi, Mumbai and Jaipur have flights scheduled every day from here, which makes the travel quite convenient. ",
+          "by_road": "The city lies midway between Delhi and Mumbai, at the intersection of NH 8, Golden quadrilateral, East west Corridor and NH 76. Road travellers can drive down to the city either from Ahmedabad through NH8 which takes approximately 5 hours or from Jaipur which is a 6-hour journey via the Golden quadrilateral. It's also a 4-hour drive from Kota through the EW corridor.",
+          "by_train": "There are two railway stations in Udaipur- Udaipur City railway station and Rana Pratap Nagar railway station, both well networked to most of the cities in India like Kolkata, Bangalore, New Delhi, Mumbai, Jaipur, Ajmer, Kota, Agra, etc. Both the stations are located within a distance of 3km from the city centre. ",
+          "season": "October to March offer is the best time to visit Udaipur. The winter season is pleasant making it an ideal time to explore the city at its best. Monsoons from July to September is another ideal time to visit Udaipur as it is pleasant and a relief from the torrid climate of Rajasthan. However, summer months must be avoided as the temperatures rise up to 42 degrees. ",
+          "disciption": "Udaipur, formerly the capital of the Mewar Kingdom, is a city in the western Indian state of Rajasthan. Founded by Maharana Udai Singh II in 1559, it’s set around a series of artificial lakes and is known for its lavish royal residences. City Palace, overlooking Lake Pichola, is a monumental complex of 11 palaces, courtyards and gardens, famed for its intricate peacock mosaics.",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "City Palace",
+              "disciption": "City Palace is Rajasthan's largest palace built along the banks of Lake Pichola. The main part of the palace is open as City Palace Museum with extravagant architecture comprising of ornate halls, royal courtyard, central garden and Zenana Mahal among others. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "Lake Pichola",
+              "disciption": "The oldest and one of the largest lakes of Udaipur, Lake Pichola is enveloped by lofty palaces, temples, and bathing ghats. Boating in Lake Pichola is the most popular thing to do in Udaipur. Boats are easily available from Rameshwar Ghat if visiting from the City Palace. Otherwise, take a boat trip from Lal Ghat. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "Sajjangarh Palace",
+              "disciption": "Also known as Monsoon Palace, Sajjangarh Palace is located at Bansdara Mountain on the outskirts of Udaipur. It was built by Maharana Sajjan Singh as an astronomical observatory. Now it serves as one of the best places to view the Udaipur skyline and panoramic city view, particularly at sunset. ",
+              "distance": "6 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Bagore ki Haveli",
+              "disciption": "Bagore ki Haveli is situated in the Gangaur Ghat Marg, along Lake Pichola. It was built in the 18th century by Amar Chand Badwa, the Prime Minister of Mewar. The haveli houses more than 100 rooms with elaborate exhibits and mirror work. It also houses a museum. The Dharohar Dance Show that is held here every evening.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Jag Mandir",
+              "disciption": "Also known as the Lake Garden Palace, Jag Mandir is located on an island in Lake Pichola. It was once the summer resort of the royal family. The grand palace comprises some impressive structures worth visiting. Jag Mandir can only be visited by boat. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "Eklingji Temple",
+              "disciption": "Almost 22km away from Udaipur, Eklingji Temple is dedicated to Lord Shiva. Taking a cab to this temple is the most convenient way to reach it. It is one of the most famous temples of Rajasthan, also known for its remarkable architecture.",
+              "distance": "20 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Ahar Museum",
+              "disciption": "Ahar Museum, which essentially includes the Ahar Cenotaphs as well as the Ahar Archaeological Museum, is located in Ahar which is about 2km east of Udaipur, Rajasthan. This historical attraction is famous for being the cremation ground of the Maharanas of Mewar and for its beautiful architecture. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "Jagdish Temple",
+              "disciption": "Jagdish Temple is one of the most famous temples in and around Udaipur. It is dedicated to Lord Vishnu in the form of Jagannath. The temple is also popular for its striking architecture. Jagdish Temple is located 150m from City Palace's Badi Pol entrance and has a steep flight of steps to the top. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Saheliyon Ki Bari",
+              "disciption": "A majestic garden located on one of the islands of Fateh Sagar Lake, Saheliyon-ki-Bari has expansive lawns, shady cool walking lanes and imposing fountains. There is also a small museum here. It is one of the best places in Udaipur to relax. ",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Ambrai Ghat",
+              "disciption": "Ambrai Ghat, also known as Manjhi Ghat Udaipur is one of the best and the most popular ghats in Udaipur. This place is filled with local people as well as tourists. In the early morning hours, you can find peace and solace with old citizens of Udaipur who do Yoga, bathe into lakes, and do several other activities. In the evening, you can enjoy the city lights and appreciate the detailed view of the Heritage Hotels like Lake Palace Udaipur, Jag Mandir, Shiv Niwas etc from the ghat.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Gulab Bagh Zoo",
+              "disciption": "Gulab Bagh Zoo is located in the most abundant garden called Gulab Bagh and implicit to the name it has a variety of well-maintained roses. The mini zoo within the garden is a short walk away from the rose gardens. A very few numbers of species of animals are housed in this zoo including the wide-eyed owls and has enough places to visit within the vicinity like the toy train which is open to the kids and the adults. There is an enormous artificial water body called Kamal Talai which adds to the palace like the beauty of the Garden and a Navlakha Mahal, a religious place for parents to visit.",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Jaisamand Lake",
+              "disciption": "Jaisamand Lake, also known as Dhebar Lake, is the second-largest artificial lake in India. Hawa Mahal, Ruthi Rani ka Mahal, Jaisamand Wildlife Sanctuary and Jaisamand Island Resort are located on its shores and islands.",
+              "distance": "47 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "The Udaipur Fish Aquarium",
+              "disciption": "The Udaipur Fish Aquarium, formally known as the Under the Sun Aquarium, is located near Vibhuti Park and Fateh Sagar Lake, and is actually the largest Public Aquarium Gallery in India. Along with hundreds of fish species and other aquatic creatures, it also houses virtual reality experience and 3D arts",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Sukhadia Circle",
+              "disciption": "Sukhadia Circle, also called The Heart Of Panchvati, is located In the north of the Udaipur city. This splendid turn around Panchwati is a small pond amidst which lies a 21 Ft high three-tiered fountain.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Vintage Car Museum",
+              "disciption": "Located just a few kilometers away from the magnificent City Palace Vintage Car Museum is an awesome place for automobile and car lovers.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Shilpgram",
+              "disciption": "Located at the foot hills of Aravali Mountains in Udaipur, Shilpgram is a craftsmen's village which encloses twenty-six huts constructed in traditional architectural styles and these huts display many house hold decorative articles. ",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "Doodh Talai",
+              "disciption": "Doodh Talai Musical garden is a rock and fountain garden which is a great place to enjoy the sunset and one can see the wide expanse of the city. Also, there is an Areal tramway (cable car) connecting a garden of Doodh Talai and the Karni mata Temple. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "Wax Museum",
+              "disciption": "One of the most well-known tourist attractions in Udaipur, Rajasthan, the Wax Museum is situated on the Sahelion ki Bari Road. It is visited by locals and foreigners alike for its numerous wax statues of celebrities as well as other fun facilities like a Mirror Maze, a Horror House as well as a 9D Cinema. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "Crystal Gallery",
+              "disciption": "Crystal gallery has a stunning collection of crystal artefacts and is the largest collection of crystal in the world. The gallery is located inside the Fateh Prakash Palace and was established by Maharana Sajjan Singh in 1877. He had ordered the crystal artefacts from Birmingham in 1877. However, by the time they were delivered, Maharana has passed away. 110 years later, in 1994, the artefacts were displayed in the gallery which has been open to the public ever since. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "Menar",
+              "disciption": "An absolute treat for nature lovers, Menar Village about 45km away from Udaipur, Rajasthan basically comprises a lake and bird sanctuary. This picturesque attraction is usually not very crowded and is the perfect location to witness a variety of migratory birds and to engage in nature photography.",
+              "distance": "45 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "Nehru Garden",
+              "disciption": "Constructed in an Island at the heart of Fateh Sagar Lake, Nehru Garden encloses many distinct water fountains resembling those in Brindavan Gardens of Mysore. Another major attraction of the garden is a floating restaurant, in a boat shape. ",
+              "distance": "4 km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Jaisalmer",
+          "lat": "26.903651",
+          "lng": "70.8597106",
+          "by_air": "There are regular flights from Delhi, Mumbai, and Bangalore to Jodhpur. One can take connecting flights to this place from the other cities. It is advisable to take a cab from the Jodhpur airport to Jaisalmer. The picturesque view will make the 4-5 hours journey worthwhile.",
+          "by_road": "Jaisalmer is well connected via a network of roads to most nearby cities. Buses are also easily available since it is such a popular destination among tourist.",
+          "by_train": "Jaisalmer is really well connected in terms of the railway network. Especially with cities like Delhi, Jaipur and Jodhpur, with major trains like “Delhi Jaisalmer Express”, “Jodhpur Jaisalmer Express”, and “Howrah Jaisalmer Express”. Rickshaws and autos are easily available outside the railway station. It usually takes about INR 40-50 for an auto ride to the centre of the city from the railway station.",
+          "season": "October to March is the best time to visit Jaisalmer as the weather during this time is pleasant. Situated in the heart of Thar Desert, the summers are extremely dry and hot and must be avoided. The heat will definitely take a toll on your body, and you will not be able to enjoy your trip to the fullest. During winters, the temperatures fall up to 1 or 2 degree Celsius, especially during the night, so warm clothing is necessary. The monsoon season is also a good time to travel to Jaisalmer. During this time you might get a glimpse of some greenery growing on the arid turf. Jaisalmer is a colourful and vibrant place with an even more beautiful culture that should be a must-visit.",
+          "disciption": "Jaisalmer is a former medieval trading center and a princely state in the western Indian state of Rajasthan, in the heart of the Thar Desert. Known as the Golden City, it's distinguished by its yellow sandstone architecture. Dominating the skyline is Jaisalmer Fort, a sprawling hilltop citadel buttressed by 99 bastions. Behind its massive walls stand the ornate Maharaja's Palace and intricately carved Jain temples.",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "",
+              "disciption": "",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "",
+              "disciption": "",
+              "distance": "17 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "",
+              "disciption": "",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "",
+              "disciption": "",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "",
+              "disciption": "",
+              "distance": "10 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "",
+              "disciption": "",
+              "distance": "13 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "",
+              "disciption": "",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "",
+              "disciption": "",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "",
+              "disciption": "",
+              "distance": "5 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "",
+              "disciption": "",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "",
+              "disciption": "",
+              "distance": "4 km from city center"
+            },
+            {
+              "id": "17",
+              "place": "",
+              "disciption": "",
+              "distance": "8 km from city center"
+            },
+            {
+              "id": "18",
+              "place": "",
+              "disciption": "",
+              "distance": "18 km from city center"
+            },
+            {
+              "id": "19",
+              "place": "",
+              "disciption": "",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "20",
+              "place": "",
+              "disciption": "",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "21",
+              "place": "",
+              "disciption": "",
+              "distance": "2 km from city center"
+            }
+          ]
+        },
+        {
+          "city": "Bikaner",
+          "lat": "28.0214793",
+          "lng": ",73.284521",
+          "by_air": "The nearest airport is the Nal Airport located at a distance of around 13km from Bikaner. But, it is still under construction and has not started its operations yet. The next nearest airport is the Jodhpur Airport which is well-developed and is connected to various major cities. It is at a distance of around 251 km from the city. From there you can take a bus or a taxi. There are numerous buses and taxis operating on this route. Alternatively, you can also take a flight to Jaipur and take a taxi or bus from there. You can also land at Delhi and take a taxi or overnight bus from there.",
+          "by_road": "The city is well connected to many other cities by road. Regular bus services and taxis are available for Bikaner. The roads are considerably smooth. According to your budget, you can board either a government or a private bus.",
+          "by_train": "There are two railway stations in Bikaner- Bikaner Junction and Lalgarh Railway Junction located at a distance of 6 km from the city. These are connected to many major cities like Jaipur, Punjab, Delhi, Hyderabad, Mumbai and others. From any of these two stations, you will easily find a taxi to reach the city or your hotel. ",
+          "season": "The best time to visit Bikaner is from October to March, which is during the Winter season. Camel festival takes place in January every year. Rest of the year is extremely hot and should be avoided. Bikaner witnesses extreme winters and extreme summers. From March to June, the days are sweltering with the temperature rising to 46 degrees celsius. Dust storms are very common during this season. The monsoon arrives during the period of July to September. These months are also not as suitable as the weather becomes hot and humid. October to February is the winter season. The temperature may fall to 4 degrees. However, this is the best time to visit Bikaner since the weather is pleasant. ",
+          "disciption": "Bikaner is a city in the north Indian state of Rajasthan, east of the border with Pakistan. It's surrounded by the Thar Desert. The city is known for the 16th-century Junagarh Fort, a huge complex of ornate buildings and halls. Within the fort, the Prachina Museum displays traditional textiles and royal portraits. Nearby, the Karni Mata Temple is home to many rats considered sacred by Hindu devotees.",
+          "place_vist": [
+            {
+              "id": "1",
+              "place": "Junnagarh Fort",
+              "disciption": "For a change, this is one of the few forts which is not built on a hill. Instead, this fort, built in the arid region of the Thar Desert, is famous for its marvellous architecture, intricate carvings which leave travellers mesmerized. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "2",
+              "place": "Karni Mata Temple",
+              "disciption": " Located in Deshnoke, 30 km from Bikaner, Karni mata temple is the place where devotees and rats share a special bond. The temple is heavily influenced by mogul architecture and the entire temple is built with beautiful white marble. ",
+              "distance": "30 km from city center"
+            },
+            {
+              "id": "3",
+              "place": "Gajner Palace",
+              "disciption": "Gajner Palace is located in the city of Bikaner on the banks of Gajner Lake. This regal palace was built by Maharaja Ganga Singh as a hunting lodge for him and his family but was converted to a hotel in 1976. Gajner Palace offers you a variety of leisure activities from boat rides to desert safaris. Built as a traditional Rajasthani Palace, it is an architectural beauty that now is modernised to host guests. The entire vicinity is filled with lush green trees while the glorious palace itself offers recreational activities like billiards, lawn tennis, cycling, bird watching and wildlife safaris. ",
+              "distance": "27 km from city center"
+            },
+            {
+              "id": "4",
+              "place": "Lalgarh palace",
+              "disciption": "Lallgarh Palace was constructed for the Maharaja of Bikaner, Maharaja Ganga Singh, between 1902 and 1926. The palace built in European architecture style has now been opened up for tourists as a Heritage Hotel, and the entire estate comes under the National Heritage Trust. The estate also houses a museum named Shri Sadul Museum, where you can find traces of Rajasthani Royalties and get an insight into their extravagant lifestyle.",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "5",
+              "place": "Rampuria Haveli",
+              "disciption": "Among all other havelis like Rikhji Bagri ki Haveli, Haveli of Bhairondan, Daga Chowk Havelis and Sampatlala Agarwal Haveli, Rampuria group of Havelis are known for their more than 400 years old architecture splendour. With intricate details of jharokhas and carvings, havelis are no less than palaces. ",
+              "distance": "2 km from city center"
+            },
+            {
+              "id": "6",
+              "place": "Camel Festival",
+              "disciption": "A two day event organized every year in the month of January, the Camel festival has some spectacular and unusual camel performances like camel races, camel dances, and the bumpy, neck shaking camel rides take place at this event. ",
+              "distance": "0 km from city center"
+            },
+            {
+              "id": "7",
+              "place": "Bhandasar Jain Temple",
+              "disciption": "Bhandasar Jain Temple is one of the 27 beautiful Jain temples located in Bikaner. This temple is dedicated to the fifth Tirthankara, Sumatinath and it is also considered to be the most beautiful and the highest temple. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "8",
+              "place": "The Royal Cenotaphs",
+              "disciption": "The Royal Cenotaphs is the cremation ground of the foyal families of Bikaner. It is an architectural treat for the tourists. The splendid structure with intricately carved marble pillars display legends of Lord Krishna and other beautiful traditional designs. The oldest monument on the ground was installed in the honour of Rao Kalyanmal and the earliest is the one made for Maharaja Karni Singh.",
+              "distance": "7 km from city center"
+            },
+            {
+              "id": "9",
+              "place": "Kodamdesar Temple",
+              "disciption": "Built by the founder of Bikaner, Rao Bikaji, Kodamdesar Bhairu Ji Temple has been religiously important for the Hindus. The presiding deity is Lord Bhairu ji who was born from the place between the eyebrows, also called the third eye of Lord Shiva. Hence, the deity is considered to be an incarnation of Lord Shiva and his ferocious form. ",
+              "distance": "11 km from city center"
+            },
+            {
+              "id": "10",
+              "place": "Sadul Singh Museum",
+              "disciption": "Dedicated to the Maharajas of Bikaner, Maharaja Ganga Singh, Maharaja Karni Singh and Maharaja Sadul Singh, the Sadul Singh Museum has a fabulous collection of artefacts belonging to the kings, paintings, trophies, weapons, photographs to mention a few. It is the best place to get insights into the heroic activities of the Maharajas. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "11",
+              "place": "Shiv Bari Temple",
+              "disciption": "Built of red sand stone, the Shiv Bari Temple is located about 6km from Bikaner. Fortified by a high wall the temple is dedicated to Lord Shiva. The temple has a beautiful wall panting of Nandi Bull facing the Shiva Lingam. ",
+              "distance": "128 km from city center"
+            },
+            {
+              "id": "12",
+              "place": "Ganga Singh Museum",
+              "disciption": "Ganga Singh Museum has a marvellous collection of artefacts belonging to the Harappan Civilisation and Gupta Dynasty. The museum is a perfect attraction for history and archaeological buffs as the stunning antiques like pottery, paintings, terracotta artwork, etc. are sure to give one a peep into the rich ancient heritage of India.",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "13",
+              "place": "Sursagar Lake",
+              "disciption": "Sursagar Lake was dug out during the reign of Maharaja Sur Singh to curb water shortage in the region. With well maintained surroundings and proper seating arrangement around the mesmerizing lake, it is a famous attraction and a preferred picnic spot in the city. ",
+              "distance": "1 km from city center"
+            },
+            {
+              "id": "14",
+              "place": "Laxmi Niwas Palace",
+              "disciption": "Once a royal palace of Maharaja Ganga Singh, Laxmi Niwas Palace is a stunning attraction which is now open to the public as a heritage hotel. The architectural beauty of the palace and its rich historic and heritage value draw guests in large numbers. The grand palace also has a museum that can be explored to get a glimpse into the royalty of Bikaner. ",
+              "distance": "3 km from city center"
+            },
+            {
+              "id": "15",
+              "place": "Kolayat",
+              "disciption": "Kolayat is a quaint little town famous for the Kapil Muni Fair, the largest fair in the city, the sacred waters of the Kolayat Lake and the divine Kolayat Temple. It is, therefore, a famous pilgrimage. Legend states that Kapil Muni stopped here and meditated to bring about peace and harmony when he was passing by.",
+              "distance": "41 km from city center"
+            },
+            {
+              "id": "16",
+              "place": "Sri Laxminath Temple",
+              "disciption": "Built in the 14th Century by Maharaja Rao Lunakaran, Sri Laxminath Temple is the oldest temple in the city. The presiding deities are Lord Vishnu and Goddess Lakshmi. The colourful architecture with sculptures, painting and silver artwork and the rich religious significance of the temple attracts tourists in large numbers. ",
+              "distance": "2 km from city center"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
