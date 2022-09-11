@@ -915,7 +915,8 @@
         }
       ]
     },
-    "id": "2",
+    {
+      "id": "2",
       "state": "Himachal Paresh",
       "short_disc": "Rajasthan literally means The Land of Kings. The geographic features of Rajasthan are the Thar Desert and the Aravalli Range, which runs through the state from southwest to northeast, almost from one end to the other, for more than 850 kilometres (530 mi). Mount Abu lies at the southwestern end of the range, separated from the main ranges by the West Banas River, although a series of broken ridges continues into Haryana in the direction of Delhi where it can be seen as outcrops in the form of the Raisina Hill and the ridges farther north. About three-fifths of Rajasthan lies northwest of the Aravallis, leaving two-fifths on the east and south direction.",
       "capital": "Shimla",
